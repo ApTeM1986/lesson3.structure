@@ -46,4 +46,5 @@ firstCar.windowCondition = .open
 firstCar.windowCondition
 firstCar.windowCondition = .close
 firstCar.windowCondition
+truckFirst.transmition
 
